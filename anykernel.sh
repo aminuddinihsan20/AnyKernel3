@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Hololive Kernel By Inuo
+kernel.string=Dragneel Kernel By Inuo
 do.devicecheck=1
 no_magisk_check=1
 do.modules=0
