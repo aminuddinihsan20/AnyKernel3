@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Dragneel Kernel By Inuo
+kernel.string=Yhwach Kernel By Inuo
 do.devicecheck=1
 no_magisk_check=1
 do.modules=0
@@ -13,7 +13,7 @@ do.cleanup=1
 do.cleanuponabort=1
 device.name1=surya
 device.name2=karna
-supported.versions=13-14
+supported.versions=11-14
 '; } # end properties
 
 
